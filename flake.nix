@@ -37,12 +37,6 @@
                     sha256 = "0fm4sxx1cb679vn4v85dw8dfp5x0p74m9p2b56gqkvdap0f2q351";
                   }
                   {
-                    name = "git-tree-compare";
-                    publisher = "letmaik";
-                    version = "1.14.0";
-                    sha256 = "0as76hzfsc9ssg7wv3swlsm0nv1n0hipzgxsswz70cry515dpz2j";
-                  }
-                  {
                     name = "git-project-manager";
                     publisher = "felipecaputo";
                     version = "1.8.2";
